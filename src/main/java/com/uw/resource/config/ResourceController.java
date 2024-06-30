@@ -1,4 +1,4 @@
-package com.uw.uaa.config;
+package com.uw.resource.config;
 
 
 import org.springframework.web.bind.annotation.GetMapping;

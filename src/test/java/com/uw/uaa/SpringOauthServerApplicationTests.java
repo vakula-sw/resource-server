@@ -1,4 +1,4 @@
-package com.uw.uaa;
+package com.uw.resource;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
